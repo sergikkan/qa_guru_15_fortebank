@@ -4,7 +4,7 @@ import io.qameta.allure.Owner;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-@DisplayName("Tecтирование сайта Forte Market")
+
 public class ForteMarketTests extends BaseTest {
 
     @Owner("serhiikan")
