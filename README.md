@@ -70,7 +70,7 @@ gradle clean test
 
  <code>URL</code> – адрес удаленного сервера Selenoid.
 
-## <img width="4%" title="Jenkins" src="images/logo/Jenkins_logo.svg"> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/hhru_15/)
+## <img width="4%" title="Jenkins" src="images/logo/Jenkins_logo.svg"> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/qa_guru_15_fortemarket/)
 
 Для запуска сборки необходимо указать значения параметров и нажать кнопку <code><strong>*Собрать*</strong></code>.
 
