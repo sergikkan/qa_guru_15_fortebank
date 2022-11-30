@@ -26,7 +26,6 @@
 <code><img width="5%" title="Allure Report" src="images/logo/Allure.svg"></code>
 <code><img width="5%" title="Allure TestOps" src="images/logo/Allure_TO.svg"></code>
 <code><img width="5%" title="Jenkins" src="images/logo/Jenkins_logo.svg"></code>
-<code><img width="5%" title="Jira" src="images/logo/Jira.svg"></code>
 <code><img width="5%" title="Telegram" src="images/logo/Telegram.svg"></code>
 </p>
 
