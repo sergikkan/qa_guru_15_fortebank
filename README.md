@@ -90,7 +90,7 @@ gradle clean test
   <img src="images/allure-report1.png" alt="allure-report1" width="900">
 </p>
 <p align="center">
-  <img src="images/allure-report1.png" alt="allure-report2" width="900">
+  <img src="images/allure-report2.png" alt="allure-report2" width="900">
 </p>
 
 
