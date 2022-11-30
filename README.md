@@ -8,7 +8,6 @@
 - [Запуск тестов в Jenkins](#-запуск-тестов-в-jenkins)
 - [Отчет о результатах тестирования в Allure Report](#-отчет-о-результатах-тестирования-в-Allure-report)
 - [Интеграция с Allure TestOps](#-интеграция-с-allure-testops)
-- [Интеграция с Jira](#-интеграция-с-jira)
 - [Уведомления в Telegram с использованием бота](#-уведомления-в-telegram-с-использованием-бота)
 - [Пример запуска теста в Selenoid](#-пример-запуска-теста-в-selenoid)
 
@@ -27,7 +26,6 @@
 <code><img width="5%" title="Allure Report" src="images/logo/Allure.svg"></code>
 <code><img width="5%" title="Allure TestOps" src="images/logo/Allure_TO.svg"></code>
 <code><img width="5%" title="Jenkins" src="images/logo/Jenkins_logo.svg"></code>
-<code><img width="5%" title="Jira" src="images/logo/Jira.svg"></code>
 <code><img width="5%" title="Telegram" src="images/logo/Telegram.svg"></code>
 </p>
 
@@ -70,7 +68,7 @@ gradle clean test
 
  <code>URL</code> – адрес удаленного сервера Selenoid.
 
-## <img width="4%" title="Jenkins" src="images/logo/Jenkins_logo.svg"> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/hhru_15/)
+## <img width="4%" title="Jenkins" src="images/logo/Jenkins_logo.svg"> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/qa_guru_15_fortemarket/)
 
 Для запуска сборки необходимо указать значения параметров и нажать кнопку <code><strong>*Собрать*</strong></code>.
 
@@ -106,12 +104,6 @@ gradle clean test
 
 <p align="center">
   <img src="images/testcase.png" alt="testcase" width="900">
-</p>
-
-## <img width="4%" title="Jira" src="images/logo/Jira.svg"> Интеграция с [Jira](https://jira.autotests.cloud/browse/HOMEWORK-426)
-
-<p align="center">
-  <img src="images/jira.png" alt="jira" width="900">
 </p>
 
 ## <img width="4%" title="Telegram" src="images/logo/Telegram.svg"> Уведомления в Telegram с использованием бота
