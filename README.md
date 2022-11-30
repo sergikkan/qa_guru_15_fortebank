@@ -9,7 +9,6 @@
 - [Отчет о результатах тестирования в Allure Report](#-отчет-о-результатах-тестирования-в-Allure-report)
 - [Интеграция с Allure TestOps](#-интеграция-с-allure-testops)
 - [Уведомления в Telegram с использованием бота](#-уведомления-в-telegram-с-использованием-бота)
-- [Пример запуска теста в Selenoid](#-пример-запуска-теста-в-selenoid)
 
 
 ## :technologist: Технологии и инструменты
@@ -117,8 +116,3 @@ gradle clean test
 
 ## <img width="4%" title="Selenoid" src="images/logo/Selenoid.svg"> Пример запуска теста в Selenoid
 
-К каждому тесту в отчете прилагается видео.
-
-<p align="center">
-  <img title="Selenoid Video" src="images/video/test.mp4">
-</p>
