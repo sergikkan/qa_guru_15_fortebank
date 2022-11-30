@@ -114,5 +114,3 @@ gradle clean test
 <img title="Telegram Notifications" src="images/telegram.png">
 </p>
 
-## <img width="4%" title="Selenoid" src="images/logo/Selenoid.svg"> Пример запуска теста в Selenoid
-
