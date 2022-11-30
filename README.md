@@ -84,7 +84,7 @@ gradle clean test
 </p>
 
 
-## <img width="4%" title="Allure Report" src="images/logo/Allure.svg"> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/hhru_15/32/allure/)
+## <img width="4%" title="Allure Report" src="images/logo/Allure.svg"> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/qa_guru_15_fortemarket/allure)
 
 <p align="center">
   <img src="images/allure-report1.png" alt="allure-report1" width="900">
@@ -92,7 +92,7 @@ gradle clean test
 
 
 
-## <img width="4%" title="Allure TestOPS" src="images/logo/Allure_TO.svg"> Интеграция с [Allure TestOps](https://allure.autotests.cloud/launch/16913)
+## <img width="4%" title="Allure TestOPS" src="images/logo/Allure_TO.svg"> Интеграция с [Allure TestOps](https://allure.autotests.cloud/jobrun/16324)
 
 ## Основной дашборд
 
