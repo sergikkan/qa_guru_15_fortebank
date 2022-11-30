@@ -8,7 +8,6 @@
 - [Запуск тестов в Jenkins](#-запуск-тестов-в-jenkins)
 - [Отчет о результатах тестирования в Allure Report](#-отчет-о-результатах-тестирования-в-Allure-report)
 - [Интеграция с Allure TestOps](#-интеграция-с-allure-testops)
-- [Интеграция с Jira](#-интеграция-с-jira)
 - [Уведомления в Telegram с использованием бота](#-уведомления-в-telegram-с-использованием-бота)
 - [Пример запуска теста в Selenoid](#-пример-запуска-теста-в-selenoid)
 
@@ -106,12 +105,6 @@ gradle clean test
 
 <p align="center">
   <img src="images/testcase.png" alt="testcase" width="900">
-</p>
-
-## <img width="4%" title="Jira" src="images/logo/Jira.svg"> Интеграция с [Jira](https://jira.autotests.cloud/browse/HOMEWORK-426)
-
-<p align="center">
-  <img src="images/jira.png" alt="jira" width="900">
 </p>
 
 ## <img width="4%" title="Telegram" src="images/logo/Telegram.svg"> Уведомления в Telegram с использованием бота
