@@ -13,6 +13,7 @@ public class ForteMarketPage {
     @Step("Открыть главную страницу сайта")
     public ForteMarketPage openMainPage() {
         open("/");
+        //switchTo().alert().accept();
         return this;
     }
 

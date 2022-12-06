@@ -41,7 +41,9 @@ dependencies {
             "org.junit.jupiter:junit-jupiter:5.9.0",
             "com.codeborne:selenide:6.9.0",
             "com.github.javafaker:javafaker:1.0.2",
-            "io.qameta.allure:allure-selenide:$allureVersion"
+            "io.qameta.allure:allure-selenide:$allureVersion",
+            'org.aeonbits.owner:owner:1.0.12',
+            'io.github.bonigarcia:webdrivermanager:5.3.1'
     )
 
 }
